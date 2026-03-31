@@ -1,5 +1,5 @@
 # B2C Growth Strategy Engine
-
+![Dashboard](dashboard.png)
 An automated data pipeline and interactive dashboard designed to help e-commerce teams identify high-value customers ("Whales") and flag revenue at risk from churn.
 
 I built this project to bridge the gap between raw data and product strategy. Instead of analyzing a static CSV, this is an end-to-end tool that pulls data via API, applies business logic, and serves the insights to a stakeholder-ready front-end.
